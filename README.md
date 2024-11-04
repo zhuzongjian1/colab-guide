@@ -1,5 +1,5 @@
 ## colab-guide
-google colab load on google drive  \n 
+google colab load on google drive 
 #导入
 from google.colab import drive \n
 drive.mount('/content/drive')
